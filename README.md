@@ -1,6 +1,8 @@
 # Star-Pattern
-## Aim- To Print the Star Pattern
-## Theory- Star patterns are a series of * or any other character used to create some pattern or any geometrical shape such as - square, triangle(Pyramid), rhombus, heart etc. The program uses nested for loop. A for loop consists of three steps:- initialization, condition,
+## Aim- 
+ To Print the Star Pattern
+## Theory- 
+Star patterns are a series of * or any other character used to create some pattern or any geometrical shape such as - square, triangle(Pyramid), rhombus, heart etc. The program uses nested for loop. A for loop consists of three steps:- initialization, condition,
 updation. 
 ## Algorithm- 
     step1: Start
